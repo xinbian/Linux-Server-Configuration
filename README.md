@@ -236,4 +236,5 @@ host    all             all             ::1/128                 md5
 * Save and exit using ```CTRL+X``` and confirm the changes with ```Y```.
 * Run the following command: ```sudo service apache2 restart```
 
-#### Special thanks to [iliketomatoes](https://github.com/iliketomatoes/linux_server_configuration) for his detailed README
+#### Thanks to [iliketomatoes](https://github.com/iliketomatoes/linux_server_configuration) for his detailed README
+#### Thanks hKundan Singh's [tutorial](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
